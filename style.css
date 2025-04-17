@@ -1,0 +1,31 @@
+/* 1. Styling by Class */
+.main-heading {
+    font-family: 'Arial', sans-serif;
+    color: #4CAF50;
+    text-align: center;
+}
+
+/* 2. Styling by ID */
+#intro {
+    color: #333;
+    font-size: 18px;
+    margin: 20px;
+}
+
+/* 3. Styling an Image */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #2196F3;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* 4. Styling a Box with Margin, Padding, Border */
+.box {
+    border: 2px dashed #FF5722;
+    padding: 15px;
+    margin: 25px;
+    background-color: #f9f9f9;
+    font-family: 'Verdana', sans-serif;
+}
